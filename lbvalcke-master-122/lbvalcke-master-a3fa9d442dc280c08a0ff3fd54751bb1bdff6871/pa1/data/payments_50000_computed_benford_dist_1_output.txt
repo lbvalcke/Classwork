@@ -1,0 +1,10 @@
+Expected benford output for basic data for 1 number of digits
+0.29574
+0.17958
+0.12684
+0.09274
+0.08462
+0.06628
+0.06272
+0.0483
+0.04318

@@ -1,0 +1,2 @@
+MAD for expected/actual benford output /Users/amr/cmsc12X00-instructors/121/pa-sphinx/pa1-benford/grading/data/payments_50__input.csv @ column 2 for 1 number of digits
+0.04421555651911528

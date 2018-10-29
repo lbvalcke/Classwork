@@ -1,0 +1,16 @@
+CS121: Schelling Model of Housing Segregation
+
+schelling.py: skeleton file.  Your code goes in this file.
+utility.py: utilitiy functions for dealing with grids.
+
+test_do_simulation.py: test code for use with py.test for 
+  schelling.do_simulation
+test_is_satisfied.py: test code for use with py.test for 
+  schelling.is_satisfied
+
+tests: sample grids used in the testing code
+
+drawgrid.sh: shell script that calls Java code for drawing grids.
+DrawGrid.jar: Java code to draw grids
+
+README.txt: this file

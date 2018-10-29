@@ -1,0 +1,10 @@
+hot:cold=wet:?
+fish:fin=bird:?
+dog:bark=cat:?
+ear:hear=mouth:?
+boat:water=car:?
+strawberry:red=banana:?
+sad:happy=cold:?
+hot:warm=cold:?
+woman:lady=man:?
+mario:luigi=batman:?

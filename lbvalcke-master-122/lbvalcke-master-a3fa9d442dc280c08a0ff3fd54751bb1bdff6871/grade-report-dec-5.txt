@@ -1,0 +1,19 @@
+You are taking this course for a QUALITY grade.
+
+Programming Assignments
+PA 1: 100.0/100.0 * 8.57 = 8.57
+PA 2: 86.0/100.0 * 8.57 = 7.37
+PA 3: 94.5/100.0 * 8.57 = 8.10
+PA 4: 78.0/100.0 * 8.57 = 6.68
+PA 5: 97.0/100.0 * 8.57 = 8.31
+PA 6: 89.0/100.0 * 8.57 = 7.63
+PA 7: 93.0/100.0 * 8.57 = 7.97
+
+Midterm: 84.0/100.00 * 20.00 = 16.80
+
+
+Final score if you receive a zero on the final: 71.43
+Final score if you receive the same grade on the final as you got on the midterm: 88.23
+Final score if you receive a perfect score on the final: 91.43
+
+If you take this class Pass/Fail, you need at least 16 on the final exam to get a Pass.
